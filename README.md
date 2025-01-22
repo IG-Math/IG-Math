@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+A high school student in Japan.([https://ichigaku.ac.jp](https://www.ichigaku.ac.jp))
+Atcoder Account - [https://atcoder.jp/users/bluehelmet](https://atcoder.jp/users/bluehelmet)
+Python Programmer(Web, API, Pygame, Atcoder)
 
+## Time is Money!!!
+
+### Just For Fun! Enjoy Programming!!
 <!--
 **IG-Math/IG-Math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

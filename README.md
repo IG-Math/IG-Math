@@ -1,6 +1,6 @@
 # Hi there 👋
 A high school student in Japan.([https://ichigaku.ac.jp](https://www.ichigaku.ac.jp))\
-Atcoder Account - [https://atcoder.jp/users/bluehelmet](https://atcoder.jp/users/bluehelmet)
+Atcoder Account - [https://atcoder.jp/users/bluehelmet](https://atcoder.jp/users/bluehelmet)\
 Python Programmer(Web, API, Pygame, Atcoder)
 
 ## Time is Money!!!

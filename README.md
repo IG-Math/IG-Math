@@ -4,8 +4,11 @@ Atcoder Account - [https://atcoder.jp/users/bluehelmet](https://atcoder.jp/users
 Python Programmer(Web, API, Pygame, Atcoder)
 
 ## Time is Money!!!
-
+Don't waste our time!
 ### Just For Fun! Enjoy Programming!!
+Programming is fun.
+That's everything.
+
 <!--
 **IG-Math/IG-Math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
